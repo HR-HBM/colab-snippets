@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/csmastersUH/data_analysis_with_python_2020/blob/master/numpy.ipynb#scrollTo=GVc6eCs5k__y
